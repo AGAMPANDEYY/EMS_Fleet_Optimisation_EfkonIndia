@@ -1,0 +1,75 @@
+Solution status: Optimal
+
+Ambulance at location 0: 1.0 
+Ambulance at location 1: 1.0 
+Ambulance at location 2: 1.0 
+Ambulance at location 3: 0.0 
+Ambulance at location 4: 0.0 
+Ambulance at location 5: 0.0 
+Ambulance at location 6: 1.0 
+Ambulance at location 7: 1.0 
+Ambulance at location 8: 1.0 
+Ambulance at location 9: 0.0 
+Ambulance at location 10: 0.0 
+Ambulance at location 11: 1.0 
+Ambulance at location 12: 1.0 
+Ambulance at location 13: 1.0 
+Ambulance at location 14: 0.0 
+Ambulance at location 15: 1.0 
+
+Demand point 0 primary coverage (z_i1): 1.0
+Demand point 0 secondary coverage (z_i2): 1.0
+Demand point 1 primary coverage (z_i1): 1.0
+Demand point 1 secondary coverage (z_i2): 1.0
+Demand point 2 primary coverage (z_i1): 1.0
+Demand point 2 secondary coverage (z_i2): 1.0
+Demand point 3 primary coverage (z_i1): 1.0
+Demand point 3 secondary coverage (z_i2): 1.0
+Demand point 4 primary coverage (z_i1): 1.0
+Demand point 4 secondary coverage (z_i2): 1.0
+Demand point 5 primary coverage (z_i1): 1.0
+Demand point 5 secondary coverage (z_i2): 1.0
+Demand point 6 primary coverage (z_i1): 1.0
+Demand point 6 secondary coverage (z_i2): 1.0
+Demand point 7 primary coverage (z_i1): 1.0
+Demand point 7 secondary coverage (z_i2): 1.0
+Demand point 8 primary coverage (z_i1): 1.0
+Demand point 8 secondary coverage (z_i2): 1.0
+Demand point 9 primary coverage (z_i1): 1.0
+Demand point 9 secondary coverage (z_i2): 1.0
+Demand point 10 primary coverage (z_i1): 1.0
+Demand point 10 secondary coverage (z_i2): 1.0
+Demand point 11 primary coverage (z_i1): 1.0
+Demand point 11 secondary coverage (z_i2): 1.0
+Demand point 12 primary coverage (z_i1): 1.0
+Demand point 12 secondary coverage (z_i2): 1.0
+Demand point 13 primary coverage (z_i1): 1.0
+Demand point 13 secondary coverage (z_i2): 1.0
+Demand point 14 primary coverage (z_i1): 1.0
+Demand point 14 secondary coverage (z_i2): 1.0
+Demand point 15 primary coverage (z_i1): 1.0
+Demand point 15 secondary coverage (z_i2): 1.0
+Demand point 16 primary coverage (z_i1): 1.0
+Demand point 16 secondary coverage (z_i2): 1.0
+Demand point 17 primary coverage (z_i1): 1.0
+Demand point 17 secondary coverage (z_i2): 1.0
+Demand point 18 primary coverage (z_i1): 1.0
+Demand point 18 secondary coverage (z_i2): 1.0
+Demand point 19 primary coverage (z_i1): 1.0
+Demand point 19 secondary coverage (z_i2): 1.0
+Demand point 20 primary coverage (z_i1): 1.0
+Demand point 20 secondary coverage (z_i2): 1.0
+Demand point 21 primary coverage (z_i1): 1.0
+Demand point 21 secondary coverage (z_i2): 1.0
+Demand point 22 primary coverage (z_i1): 1.0
+Demand point 22 secondary coverage (z_i2): 1.0
+Demand point 23 primary coverage (z_i1): 1.0
+Demand point 23 secondary coverage (z_i2): 1.0
+Demand point 24 primary coverage (z_i1): 1.0
+Demand point 24 secondary coverage (z_i2): 1.0
+Demand point 25 primary coverage (z_i1): 1.0
+Demand point 25 secondary coverage (z_i2): 1.0
+
+Objective function value: 107.0
+ 
+r_1: 20 |	r_2: 30 |	alpha: 0.9 |	

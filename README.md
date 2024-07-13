@@ -139,5 +139,5 @@ Clone the repository and install the required dependencies:
 ```sh
 git clone https://github.com/AGAMPANDEYY/Ambulance-Optimisation-EfkonStrabag.git
 cd Ambulance-Optimisation-EfkonStrabag
-pip install -r requirements.txt
+source venv-efkon/bin/activate
 

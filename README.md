@@ -1,4 +1,5 @@
-# :ambulance: Emergency Services Location optimisation using DSM for maximizing coverage, minimizing the response time for Fatal Accidents on Hyderabad Outer Ring Road :motorway:
+# Emergency Services Location optimisation using DSM for maximizing coverage, minimizing the response time for Fatal Accidents on Hyderabad Outer Ring Road :motorway:
+## [Refer to the Execution Guide PDF/Doc for using the modules](https://github.com/AGAMPANDEYY/Ambulance-Optimisation-EfkonStrabag/blob/main/execution-guide/Execution%20Guide%20for%20Ambulance%20Optimisation.pdf)
 
 ## This repo contains:
 - Algorithms and Source Codes

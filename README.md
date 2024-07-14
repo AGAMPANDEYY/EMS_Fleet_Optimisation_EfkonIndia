@@ -8,7 +8,7 @@
 - Reference materials
 - Presentation discussing the solution
 
-  # 🚑 Ambulance Optimization Quick Guide - EfkonStrabag 🚑
+# 🚑 Ambulance Optimization Quick Guide - EfkonStrabag
 
 Welcome to the **Ambulance Optimization** repository! This project aims to optimize the deployment of ambulances on highways using accident clustering data and mathematical optimization.
 

@@ -1,4 +1,4 @@
-# Emergency Services Location optimisation using DSM for maximizing coverage, minimizing the response time for Fatal Accidents on Hyderabad Outer Ring Road :motorway:
+# Emergency Services Deployment optimisation using DSM for maximizing coverage, minimizing the response time for Fatal Accidents on Hyderabad Outer Ring Road :motorway:
 ## [Refer to the Execution Guide PDF/Doc for using the modules](https://github.com/AGAMPANDEYY/Ambulance-Optimisation-EfkonStrabag/blob/main/execution-guide/Execution%20Guide%20for%20Ambulance%20Optimisation.pdf)
 
 ## This repo contains:
@@ -8,7 +8,7 @@
 - Reference materials
 - Presentation discussing the solution
 
-# 🚑 Ambulance Optimization Quick Guide - EfkonStrabag
+# EMS Fleet Optimization Quick Guide - EfkonStrabag
 
 Welcome to the **Ambulance Optimization** repository! This project aims to optimize the deployment of ambulances on highways using accident clustering data and mathematical optimization.
 
